@@ -1,0 +1,7 @@
+.dialog {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(23, 134, 134, 0.998);
+    margin:2% 10%;
+}

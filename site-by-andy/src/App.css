@@ -1,4 +1,21 @@
-.App {
+.app-wrapper {
+  display:grid;
+  grid-template-areas: "header" "content";
+  grid-template-rows:80px 1fr;
+  overflow-x:hidden;
+  overflow-y:hidden;
+}
+
+.content {
+  display:grid;
+  grid-area:content;
+  grid-template-areas:"matter";
+  background-color: rgb(17, 146, 51);
+  height:761px;
+}
+
+
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +52,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
