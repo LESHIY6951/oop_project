@@ -1,0 +1,30 @@
+﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
+using shop25.Data.Contex;
+
+namespace shop25.Controllers
+{
+    [ApiController]
+    [Route("Product")]
+    public class ProductController:Controller
+
+    {
+        private readonly ProductContex _product;
+        public ProductController(ProductContex product)
+        {
+            _product = product;
+        }
+        [HttpGet]
+        public async Task<IActionResult> Product(int a)
+        {
+            var product = await _product.Products.Where(c=> c.item_id>=0+a && c.item_id  <= 7+a).ToListAsync();
+            return Ok(product);
+        }
+        [HttpGet("{item_id}")]
+        public async Task<IActionResult> Products(int item_id)
+        {
+            var result = await _product.Products.FirstOrDefaultAsync(x => x.item_id == item_id);
+            return Ok(result);
+    }
+}
+}
