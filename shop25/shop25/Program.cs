@@ -16,8 +16,5 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
-/*builder.Services.AddDbContext<UserContex>(options =>
-{
-    options.UseSqlServer(builder.Configuration.GetConnectionString("MuseumConnection"));
-});*/
+builder.Services.AddDbContext<UserContex>(options => options.UseSqlServer("Server=localhost;Database=Shop;Trusted_Connection=True; TrustServerCertificate=true"));
 app.Run();
