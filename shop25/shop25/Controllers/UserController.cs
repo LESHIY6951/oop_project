@@ -9,7 +9,7 @@ using System.Text.RegularExpressions;
 namespace shop25
 {
       [ApiController]
-    [Route("User")]
+    [Route("api/[controller]")]
 
     public class UserController : Controller
     {

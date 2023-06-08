@@ -1,11 +1,11 @@
 ﻿namespace shop25.Data.Model
 {
-    public class Product
+    public class Products
     {
-        public int item_Id { get; set; }
-        public string name { get; set; }
-        public string description { get; set; }
-        public int cost { get; set; }
-        public string img { get; set; }
+        public int item_id { get; set; }
+        public string item_name { get; set; }
+        public string item_description { get; set; }
+        public int item_cost { get; set; }
+        public string item_img { get; set; }
     }
 }

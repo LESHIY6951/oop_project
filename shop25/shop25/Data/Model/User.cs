@@ -7,14 +7,14 @@ namespace shop25
     {
         public class User
         {
-            public int id { set; get; }
-            public int cert_id { set; get; }
-            public string login { set; get; }
-            public string paswword { set; get; }
+            public int id { private set; get; }
+            public int? cert_id { set; get; }
+           public string login { set; get; }
+            public string password { set; get; }
              public string name { set; get; }
             public string email { set; get; }
-            public int number { set; get; }
-            public string adress { set; get; }
+            public string number { set; get; }
+            public string address { set; get; }
         }
     }
 

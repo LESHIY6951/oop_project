@@ -7,11 +7,12 @@ using shop25.Data.Model;
 namespace shop25.Controllers
 {
     [ApiController]
-    [Route("Basket")]
+    [Route("api/[controller]")]
     public class UserBasketController:Controller
     {
             private readonly UserBasketContex _userBasket;
-            public UserBasketController(UserBasketContex userBasket)
+           private readonly ProductContex _product;
+        public UserBasketController(UserBasketContex userBasket)
             {
                 _userBasket = userBasket;
             }
@@ -19,26 +20,30 @@ namespace shop25.Controllers
             [HttpGet]
             public async Task<IActionResult> UserBasket()
             {
-                var userBasket = await _userBasket.Basket.ToListAsync();
+                var userBasket = await _userBasket.cart.ToListAsync();
                 return Ok(userBasket);
             }
 
         [HttpPost]
-            public async Task<IActionResult> Create(UserBasket userCart)
+            public async Task<IActionResult> Create(cart userCart)
             {
-                _userBasket.Basket.Add(userCart);
+                _userBasket.cart.Add(userCart);
                 await _userBasket.SaveChangesAsync();
                 return Ok(userCart);
             }
 
-            [HttpDelete("{id}")]
-            public async Task<IActionResult> DeleteFavorites(int id)
+            [HttpDelete("{item_id}")]
+            public async Task<IActionResult> Delete(int item_id)
             {
-                var userCart = await _userBasket.Basket.FindAsync(id);
-                _userBasket.Basket.RemoveRange(userCart);
+                var userCart = await _userBasket.cart.FirstOrDefaultAsync(x => x.item_id == item_id);
+            if (userCart != null)
+            {
+                _userBasket.cart.RemoveRange(userCart);
                 await _userBasket.SaveChangesAsync();
 
                 return Ok(userCart);
+            }
+            else return (null);
             }
         }
 }

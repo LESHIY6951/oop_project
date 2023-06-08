@@ -1,11 +1,11 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using shop25.Data.Contex;
-
+using shop25.Data.Model;
 namespace shop25.Controllers
 {
     [ApiController]
-    [Route("Product")]
+    [Route("api/[controller]")]
     public class ProductController:Controller
 
     {
@@ -15,11 +15,16 @@ namespace shop25.Controllers
             _product = product;
         }
         [HttpGet]
-        public async Task<IActionResult> Product()
+        public async Task<IActionResult> Product(int a)
         {
-            //var product = await _product.Product.Where(c=> c.cost <=100).ToListAsync();
-            var product = await _product.Product.ToListAsync();
+            var product = await _product.Products.Where(c=> c.item_id>=0+a && c.item_id  <= 7+a).ToListAsync();
             return Ok(product);
         }
+        [HttpGet("{item_id}")]
+        public async Task<IActionResult> Products(int item_id)
+        {
+            var result = await _product.Products.FirstOrDefaultAsync(x => x.item_id == item_id);
+            return Ok(result);
     }
+}
 }

@@ -5,10 +5,14 @@ namespace shop25.Data.Contex
 {
     public class ProductContex : DbContext
     {
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<Products>().HasNoKey();
+        }
         public ProductContex(DbContextOptions<ProductContex> options) : base(options)
         {
 
         }
-        public DbSet<Product> Product { get; set; }
+        public DbSet<Products> Products { get; set; }
     }
 }

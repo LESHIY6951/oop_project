@@ -7,7 +7,7 @@ namespace shop25.Controllers
 {
 
     [ApiController]
-    [Route("Forum")]
+    [Route("api/[controller]")]
     public class ForumController:Controller
     {
         private readonly ForumContex _forum;
@@ -16,29 +16,31 @@ namespace shop25.Controllers
             _forum = forum;
         }
         [HttpPost]
-        public async Task<IActionResult> Create(Forum forum)
+        public async Task<IActionResult> Create(forum forum)
         {
-            _forum.Forum.Add(forum);
+            _forum.forum.Add(forum);
             await _forum.SaveChangesAsync();
             return Ok(forum);
         }
         [HttpGet]
         public async Task<IActionResult> Forum()
         {
-            var forum = await _forum.Forum.ToListAsync();
+            var forum = await _forum.forum.ToListAsync();
             return Ok(forum);
         }
-        [HttpPut]
-        public async Task<IActionResult> Like (Forum forum)
+        [HttpPost("{forum_id}")]
+        public async Task<IActionResult> Like (int forum_id)
         {
-            forum.like = forum.like + 1;
+            var forum= await _forum.forum.FindAsync(forum_id);
+           forum.likes = forum.likes + 1;
             await _forum.SaveChangesAsync();
             return Ok(forum);
         }
-        [HttpPatch]
-        public async Task<IActionResult> DisLike(Forum forum)
+        [HttpPatch("{forum_id}")]
+        public async Task<IActionResult> DisLike(int forum_id)
         {
-            forum.dislike = forum.dislike + 1;
+            var forum = await _forum.forum.FindAsync(forum_id);
+            forum.dislikes = forum.dislikes + 1;
             await _forum.SaveChangesAsync();
             return Ok(forum);
         }

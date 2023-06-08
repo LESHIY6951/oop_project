@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lbori\\source\\repos\\shop25\\shop25\\shop25.csproj": {}
+    "C:\\Users\\lbori\\Desktop\\shop25\\shop25\\shop25.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lbori\\source\\repos\\shop25\\shop25\\shop25.csproj": {
+    "C:\\Users\\lbori\\Desktop\\shop25\\shop25\\shop25.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lbori\\source\\repos\\shop25\\shop25\\shop25.csproj",
+        "projectUniqueName": "C:\\Users\\lbori\\Desktop\\shop25\\shop25\\shop25.csproj",
         "projectName": "shop25",
-        "projectPath": "C:\\Users\\lbori\\source\\repos\\shop25\\shop25\\shop25.csproj",
+        "projectPath": "C:\\Users\\lbori\\Desktop\\shop25\\shop25\\shop25.csproj",
         "packagesPath": "C:\\Users\\lbori\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lbori\\source\\repos\\shop25\\shop25\\obj\\",
+        "outputPath": "C:\\Users\\lbori\\Desktop\\shop25\\shop25\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lbori\\AppData\\Roaming\\NuGet\\NuGet.Config",

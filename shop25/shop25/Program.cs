@@ -3,18 +3,31 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using shop25;
 using shop25.Data.Contex;
-using shop25.Data.Moks;
 
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
-//builder.Services.AddScoped<IUser, MoksUser>();
+builder.Services.AddDbContext<UserContex>(options =>
+options.UseSqlServer("Server=(localdb)\\MSSQLLocalDB;Database=Shop1;Trusted_Connection=True; TrustServerCertificate=true"));
+builder.Services.AddDbContext<ForumContex>(options =>
+options.UseSqlServer("Server=(localdb)\\MSSQLLocalDB;Database=Shop1;Trusted_Connection=True; TrustServerCertificate=true"));
+builder.Services.AddDbContext<ProductContex>(options =>
+options.UseSqlServer("Server=(localdb)\\MSSQLLocalDB;Database=Shop1;Trusted_Connection=True; TrustServerCertificate=true"));
+builder.Services.AddDbContext<UserBasketContex>(options =>
+options.UseSqlServer("Server=(localdb)\\MSSQLLocalDB;Database=Shop1;Trusted_Connection=True; TrustServerCertificate=true"));
+builder.Services.AddDbContext<OrderContex>(options =>
+options.UseSqlServer("Server=(localdb)\\MSSQLLocalDB;Database=Shop1;Trusted_Connection=True; TrustServerCertificate=true"));
+
 var app = builder.Build();
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
     app.UseSwaggerUI();
 }
-builder.Services.AddDbContext<UserContex>(options => options.UseSqlServer("Server=localhost;Database=Shop;Trusted_Connection=True; TrustServerCertificate=true"));
+app.UseHttpsRedirection();
+
+app.UseAuthorization();
+
+app.MapControllers();
 app.Run();

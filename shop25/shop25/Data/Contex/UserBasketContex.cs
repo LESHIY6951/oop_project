@@ -9,6 +9,6 @@ namespace shop25.Data.Contex
         {
 
         }
-        public DbSet<UserBasket> Basket { get; set; }
+        public DbSet<cart> cart { get; set; }
     }
 }

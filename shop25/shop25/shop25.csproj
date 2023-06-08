@@ -14,6 +14,11 @@
   </ItemGroup>
 
   <ItemGroup>
+    <None Remove="Program.cs~RF3ceecdf.TMP" />
+    <None Remove="Program.cs~RF3d5223a.TMP" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="EntityFramework" Version="6.4.4" />
     <PackageReference Include="Microsoft.AspNetCore.Mvc.Core" Version="2.2.5" />
     <PackageReference Include="Microsoft.Data.SqlClient" Version="5.1.1" />
