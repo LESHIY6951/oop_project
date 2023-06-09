@@ -1,27 +1,32 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using shop25.Data.Contex;
+using shop25.Data.Model;
 using System.Net.Http;
 using System.Net.Http.Json;
+using System.Reflection.Metadata.Ecma335;
 using System.Text.Json;
 using System.Text.RegularExpressions;
 
 namespace shop25
 {
-      [ApiController]
+    [ApiController]
     [Route("api/[controller]")]
 
     public class UserController : Controller
     {
         private readonly UserContex _user;
-        public UserController (UserContex user)
+        public UserController(UserContex user)
         {
             _user = user;
         }
-        [HttpGet]
-        public async Task<IActionResult> UserGet ()
+        [HttpPatch]
+        public async Task<IActionResult> UserGet(Autorisation user)
         {
-            var users = await _user.User.ToListAsync();
+            var users = await _user.User.FirstOrDefaultAsync(x => x.login == user.login && x.password == user.password);
+            if (users == null)
+                return null;
+            else
             return Ok(users);
 
         }
@@ -34,10 +39,31 @@ namespace shop25
         [HttpPost]
         public async Task<IActionResult> Create(User user)
         {
-            _user.User.Add(user);
-            await _user.SaveChangesAsync();
-            return Ok(user);
-        }
-    }
+            var users = await _user.User.FirstOrDefaultAsync(x => x.login == user.login);
+            if (users == null)
+            {
+                users = await _user.User.FirstOrDefaultAsync(x => x.cert_id == user.cert_id);
+                if (users == null)
+                {
 
+                    _user.User.Add(user);
+                    await _user.SaveChangesAsync();
+                    return Ok(user);
+                }
+                else
+                    return null;
+            }
+            else
+                return null;
+        }
+      /*  [HttpPost("Cha")]
+        public async Task<IActionResult> Сhanges(User user)
+        {
+            var users = await _user.User.FirstOrDefaultAsync(x => x.id == user.id);
+                       users = user;
+                    _user.User.Add(users);
+                    await _user.SaveChangesAsync();
+                    return Ok(users);
+        }*/
+    }
 }

@@ -10,16 +10,23 @@ namespace shop25.Controllers
     public class Order_HistoriController: Controller
     {
 
-            private readonly  OrderContex _tovap;
-            public Order_HistoriController(OrderContex tovap)
+            private readonly  order_historyContex _order;
+            public Order_HistoriController(order_historyContex order)
             {
-                _tovap = tovap;
+                _order = order;
             }
-        [HttpGet]
-        public async Task<IActionResult> Tovap()
+        [HttpGet("{user_id}")]
+        public async Task<IActionResult> order_history(int user_id)
         {
-            var tovap = await _tovap.order_history.ToListAsync();
-            return Ok (tovap);
+            var order = await _order.history.Where(x=>x.user_id==user_id).ToListAsync(); 
+            return Ok (order);
+        }
+        [HttpPost]
+        public async Task<IActionResult> Dobav(history order)
+        {
+            _order.history.Add(order);
+            await _order.SaveChangesAsync();
+            return Ok(order);
         }
     }
 }

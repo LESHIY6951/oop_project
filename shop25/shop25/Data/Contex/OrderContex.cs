@@ -10,6 +10,5 @@ namespace shop25.Data.Contex
 
         }
         public DbSet<ORDER> order { get; set; }
-        public DbSet<order_history> order_history { get; set; }
     }
 }

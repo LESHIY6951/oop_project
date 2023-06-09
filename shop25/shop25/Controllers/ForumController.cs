@@ -36,7 +36,7 @@ namespace shop25.Controllers
             await _forum.SaveChangesAsync();
             return Ok(forum);
         }
-        [HttpPatch("{forum_id}")]
+        [HttpPost("dislike/{forum_id}")]
         public async Task<IActionResult> DisLike(int forum_id)
         {
             var forum = await _forum.forum.FindAsync(forum_id);

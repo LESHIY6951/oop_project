@@ -15,9 +15,9 @@ namespace shop25.Controllers
             _product = product;
         }
         [HttpGet]
-        public async Task<IActionResult> Product(int a)
+        public async Task<IActionResult> Product()
         {
-            var product = await _product.Products.Where(c=> c.item_id>=0+a && c.item_id  <= 7+a).ToListAsync();
+            var product = await _product.Products.ToListAsync();
             return Ok(product);
         }
         [HttpGet("{item_id}")]

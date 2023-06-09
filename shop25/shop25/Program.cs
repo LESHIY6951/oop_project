@@ -18,13 +18,21 @@ builder.Services.AddDbContext<UserBasketContex>(options =>
 options.UseSqlServer("Server=(localdb)\\MSSQLLocalDB;Database=Shop1;Trusted_Connection=True; TrustServerCertificate=true"));
 builder.Services.AddDbContext<OrderContex>(options =>
 options.UseSqlServer("Server=(localdb)\\MSSQLLocalDB;Database=Shop1;Trusted_Connection=True; TrustServerCertificate=true"));
-
+builder.Services.AddDbContext<order_historyContex>(options =>
+options.UseSqlServer("Server=(localdb)\\MSSQLLocalDB;Database=Shop1;Trusted_Connection=True; TrustServerCertificate=true"));
 var app = builder.Build();
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+app.UseCors(builder =>
+{
+    builder.AllowAnyOrigin()
+    .AllowAnyHeader()
+    .AllowAnyMethod();
+});
+
 app.UseHttpsRedirection();
 
 app.UseAuthorization();
