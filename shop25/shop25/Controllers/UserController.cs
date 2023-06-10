@@ -56,14 +56,19 @@ namespace shop25
             else
                 return null;
         }
-      /*  [HttpPost("Cha")]
-        public async Task<IActionResult> Сhanges(User user)
+        [HttpPost("Cha")]
+        public async Task<IActionResult> Сhanges(UserChanges user)
         {
             var users = await _user.User.FirstOrDefaultAsync(x => x.id == user.id);
-                       users = user;
-                    _user.User.Add(users);
+                       users.cert_id=user.cert_id;
+                      if(user.password!= null)
+                      users.password=user.password;
+                   users.name = user.name;
+                   users.email=user.email;
+                   users.number = user.number;
+                   users.address = user.address;
                     await _user.SaveChangesAsync();
                     return Ok(users);
-        }*/
+        }
     }
 }

@@ -12,23 +12,33 @@ namespace shop25.Controllers
     {
         private readonly UserBasketContex _userBasket;
         private readonly ProductContex _product;
-        public UserBasketController(UserBasketContex userBasket)
+        public UserBasketController(UserBasketContex userBasket, ProductContex product)
         {
             _userBasket = userBasket;
+            _product = product;
         }
 
-       // [HttpGet("{user_id}")]
-        [HttpGet]
+        [HttpGet("{user_id}")]
         public async Task<IActionResult> UserBasket(int user_id)
             {
-            // var userBasket = await _userBasket.cart.Where(x=>x.user_id==user_id).ToListAsync();
-            var userBasket = await _userBasket.cart.ToListAsync();
-            return Ok(userBasket);
+            List<Products> mass= new List<Products>();
+             var userBasket = await _userBasket.cart.Where(x=>x.user_id==user_id).ToListAsync();
+            for (int i = 0; i < userBasket.Count; i++)
+            {
+                var product = await _product.Products.FirstOrDefaultAsync(x => x.item_id == userBasket[i].item_id);
+                if (product != null)
+                {
+                    mass.Add(product);
+                }
+            }
+            return Ok(mass);
             }
           
         [HttpPost]
             public async Task<IActionResult> Create(cart userCart)
             {
+               //var product = _product.Products.FirstOrDefaultAsync(x=>x.item_id== userCart.item_id);
+
                 _userBasket.cart.Add(userCart);
                 await _userBasket.SaveChangesAsync();
                 return Ok(userCart);

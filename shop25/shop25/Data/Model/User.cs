@@ -15,6 +15,7 @@ namespace shop25
             public string? email { set; get; }
             public string? number { set; get; }
             public string? address { set; get; }
+
         }
     }
 
