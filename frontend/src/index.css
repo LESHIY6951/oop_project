@@ -1,0 +1,783 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-image: url(/public/img/ForestForBackground.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.wrapper {
+  width: 1280px;
+  margin: 20px auto;
+  position: relative;
+
+}
+
+header {
+  position: relative;
+  width: 1520px;
+  left: -120px;
+  text-align: center;
+}
+
+header .logo {
+  font-weight: 600;
+  font-size: 60px;
+  color: #000000;
+}
+
+header .navbar {
+  backdrop-filter: blur(50px);
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+}
+
+header .Link {
+  text-decoration: none;
+  color: black;
+  text-align: center;
+  display: inline-block;
+  background: #1da43858;
+  padding: 10px 20px;
+  margin: 0 15px;
+  border-radius: 50px;
+  min-width: 75px;
+  border: 1px solid black;
+  background-image: linear-gradient(90deg, rgba(18, 145, 4, 0.616), rgba(70, 230, 26, 0.634), rgba(18, 145, 4, 0.616));
+  background-size: 200% 100%;
+  background-position: right;
+  transition: background-position 0.5s ease;
+}
+
+header .Link:hover {
+  background-position: left;
+}
+
+.content {
+  margin-top: 50px;
+  text-align: center;
+  position: relative;
+
+}
+
+.content::before {
+  content: "";
+  position: absolute;
+  border-radius: 40px;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-image: url(/public/img/DoskiBackground.jpg);
+  background-size: 100%;
+  filter: blur(0px);
+  z-index: -1;
+}
+
+/*--------------------------------------------Каталог--------------------------------------*/
+
+.catalog-wrapper .catalog {
+  display: block;
+  float: left;
+  width: 900px;
+  background-image: url(/public/img/DoskiBackground.jpg);
+  background-size: 70%;
+  background-repeat: repeat-y;
+  background-attachment: fixed;
+  border-radius: 30px;
+  display: flex;
+  flex-wrap: wrap;
+  /*элементы могут переходить на новые строки*/
+  justify-content: space-between;
+  padding: 15px;
+  margin-bottom: 10px;
+}
+
+.catalog-wrapper .news {
+  display: block;
+  float: right;
+  width: 300px;
+  background-image: url(/public/img/DoskiBackground.jpg);
+  background-size: 80%;
+  background-position-x: right;
+  background-repeat: repeat-y;
+  background-attachment: fixed;
+  border-radius: 30px;
+}
+
+.catalog .item {
+  width: 20%;
+  margin-bottom: 40px;
+  background: rgba(255, 255, 255, 0.70);
+  border-radius: 10px;
+  overflow: hidden;
+  position: relative;
+  padding: 5px;
+  padding-bottom: 15px;
+  border: 2px solid black;
+
+}
+
+.catalog .item img {
+  width: 100%;
+  height: auto;
+  border-radius: 30px;
+}
+
+.catalog .add-to-cart {
+  position: absolute;
+  right: 10px;
+  bottom: 10px;
+  background: #ca5252;
+  width: 25px;
+  height: 25px;
+  text-align: center;
+  line-height: 25px;
+  color: #fff;
+  border-radius: 50%;
+  cursor: pointer;
+  font-weight: 600;
+  transition: transform 500ms;
+}
+
+.catalog .add-to-cart:hover {
+  transform: rotate(180deg) scale(1.5);
+}
+
+.catalog h2,
+.catalog p,
+.catalog b {
+  margin: 0;
+}
+
+/*---------------------------------------------Корзина------------------------------------*/
+.cart {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 1280px;
+  min-height: 600px;
+
+}
+
+.cart-message {
+  font-size: 40px;
+  margin: 30px;
+  text-shadow: 0 0 10px black;
+  animation: gradient-animation 6s linear infinite;
+}
+
+@keyframes gradient-animation {
+  0% {
+    color: yellow;
+  }
+
+  25% {
+    color: orange;
+  }
+
+  50% {
+    color: red;
+  }
+
+  75% {
+    color: orange;
+  }
+
+  100% {
+    color: yellow;
+  }
+}
+
+.cart .Link {
+  font-size: 36px;
+  text-decoration: none;
+  color: black;
+  background-image: radial-gradient(ellipse farthest-corner at center, #e17d0be3, #e4e41d);
+  border: 1px solid black;
+  border-radius: 30px;
+  width: 400px;
+  margin-top: 20px;
+  height: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.cart-loggedIn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 1280px;
+  min-height: 500px;
+  flex-wrap: wrap;
+}
+
+.cart-loggedIn-message {
+  position: absolute;
+  top: 50px;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-size: 40px;
+  backdrop-filter: blur(10px); /* Применение размытого фильтра */
+  display: flex;
+  align-items: center; /* Выравнивание по вертикали */
+  justify-content: center; /* Выравнивание по горизонтали */
+  padding: 5px 30px;
+  border-radius: 50px;
+}
+.emptyCart {
+  font-size:50px;
+  color: white;
+  backdrop-filter: blur(20px);
+  padding: 5px 30px;
+  border-radius: 50px;
+}
+
+.cart-loggedIn .trashingAllItems {
+  transform: scale(3);
+  color:rgb(0, 0, 0);
+  position: absolute;
+  right:55px;
+  top:55px;
+  cursor:pointer;
+  transition: color 800ms ease,transform 700ms ease;
+}
+
+.cart-loggedIn .trashingAllItems:hover {
+  transform: scale(4);
+  color:red;
+}
+
+.cart-loggedIn .Link {
+  text-decoration: none;
+  color:rgb(255, 255, 255);
+  font-size: 30px;
+  position: absolute;
+  bottom:25px;
+  right:20px;
+  backdrop-filter: blur(10px);
+  padding: 10px;
+  border-radius: 50px;
+  background-color: rgba(0, 0, 0, 0.419);
+  transition: color 1s ease, background-color 1s ease;
+}
+.cart-loggedIn .Link:hover {
+  color:black;
+  background-color: rgba(255, 255, 255, 0.419);
+}
+.cart-loggedIn .totalSumm {
+  position: absolute;
+  bottom:25px;
+  font-size: 36px;
+  color:white;
+  backdrop-filter: blur(10px);
+  padding: 15px;
+  border-radius: 50px;
+  background-color: rgba(0, 0, 0, 0.419);
+}
+
+.CartItems {
+  margin-top:100px;
+}
+.CartItem {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: 1180px;
+  height: 250px;
+  margin-bottom: 40px;
+  background: rgba(255, 255, 255, 0.70);
+  border-radius: 10px;
+  overflow: hidden;
+  position: relative;
+  padding: 5px;
+  padding-bottom: 15px;
+  border: 2px solid black;
+}
+.CartItem:last-child {
+  margin-bottom: 120px;
+}
+.CartItem img {
+  border-radius: 30px;
+  margin: 10px 20px 0px 10px;
+}
+.CartItem h2 {
+  position: absolute;
+  top: 50px;
+  left: 50%;
+  transform: translate(-45%, -50%);
+  font-size: 30px;
+}
+.CartItem .itemDesc {
+  position: absolute;
+  left:300px;
+  font-size: 26px;
+}
+.CartItem .itemCol {
+  font-size: 36px;
+  position: absolute;
+  right: 20px;
+  bottom: 10px;
+}
+.CartItem b {
+  font-size: 36px;
+  position: absolute;
+  right: 20px;
+  bottom: 50px;
+}
+.CartItem .trashingItem {
+  font-size: 36px;
+  position: absolute;
+  right: 20px;
+  top: 30px;
+  cursor: pointer;
+  transition: color 500ms ease,transform 500ms ease;
+}
+.CartItem .trashingItem:hover {
+  transform: scale(2);
+  color:red;
+}
+
+/*-------------------------------------------Профиль-------------------------------------*/
+.profile {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 1280px;
+  min-height: 600px;
+
+}
+
+.profile .logo {
+  font-size: 40px;
+  margin: 30px;
+  text-shadow: 0 0 10px black;
+  animation: gradient-animation2 6s linear infinite;
+}
+
+@keyframes gradient-animation2 {
+  0% {
+    color: rgb(222, 172, 20);
+  }
+
+  25% {
+    color: rgb(166, 227, 26);
+  }
+
+  50% {
+    color: rgb(64, 255, 0);
+  }
+
+  75% {
+    color: rgb(166, 227, 26);
+  }
+
+  100% {
+    color: rgb(222, 172, 20);
+  }
+}
+
+.profile .Link {
+  font-size: 36px;
+  text-decoration: none;
+  color: black;
+  background-image: radial-gradient(ellipse farthest-corner at center, #e17d0be3, #e4e41d);
+  border: 1px solid black;
+  border-radius: 30px;
+  width: 400px;
+  margin-top: 20px;
+  height: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/*-------------------------------------------Регистрация----------------------------------*/
+.registration {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 1280px;
+}
+
+.registration .logo {
+  font-size: 50px;
+  color: white;
+  margin-bottom: 20px;
+  letter-spacing: 10px;
+  border-bottom: 2px solid black;
+}
+
+.registration form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.registration input {
+  width: 200px;
+  height: 20px;
+  padding: 5px;
+  border: 1px solid #000000;
+  border-radius: 10px;
+  margin: 15px;
+  background-color: rgb(228, 169, 17);
+}
+
+.registration input::placeholder {
+  text-align: center;
+}
+
+.registration button {
+  font-size: 36px;
+  margin: 20px;
+  background-color: #ec8585;
+  border-radius: 30px;
+  width: 400px;
+  transition: background-color 1s ease;
+}
+
+.registration button:hover {
+  background-color: #15a42fb4;
+}
+
+/*---------------------------------------------Авторизация-----------------------------*/
+.login {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 1280px;
+}
+
+.login .logo {
+  font-size: 50px;
+  color: white;
+  margin-bottom: 20px;
+  letter-spacing: 10px;
+  border-bottom: 2px solid black;
+}
+
+.login form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.login input {
+  width: 200px;
+  height: 20px;
+  padding: 5px;
+  border: 1px solid #000000;
+  border-radius: 10px;
+  margin: 15px;
+  background-color: rgb(228, 169, 17);
+}
+
+.login input::placeholder {
+  text-align: center;
+}
+
+.login button {
+  font-size: 36px;
+  margin: 20px;
+  background-color: #ec8585;
+  border-radius: 30px;
+  width: 400px;
+  transition: background-color 1s ease;
+}
+
+.login button:hover {
+  background-color: #15a42fb4;
+}
+
+/*-----------------------------------Страничка пользователя----------------------------*/
+.profile-loggedIn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 1280px;
+  min-height: 600px;
+  position: relative;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.profile-loggedIn>img {
+  position: absolute;
+  top: 100px;
+  left: 50px;
+  width: 300px;
+  height: auto;
+  border-radius: 30px;
+}
+
+.profile-loggedIn .signature {
+  position: absolute;
+  top: 25px;
+  color: white;
+  font-size: 24px;
+}
+
+.profile-info {
+  background-color: #e9b806;
+  width: auto;
+  padding: 20px;
+  border-radius: 50px;
+  border: 1px solid black;
+  position: absolute;
+  top: 130px;
+  left: 400px;
+  color: white;
+  text-align: left;
+  font-size: 35px;
+}
+
+.profile-loggedIn .Link {
+  position: absolute;
+  bottom:60px;
+  left: 130px;
+  text-decoration: none;
+  font-size: 30px;
+  color: black;
+  background-color: #e9b806;
+  width: 150px;
+  padding: 15px;
+  border-radius: 50px;
+  border: 1px solid black;
+}
+
+.profile-loggedIn .otherLink {
+  position: absolute;
+  top: 450px;
+  left: 450px;
+  text-decoration: none;
+  font-size: 30px;
+  color: black;
+  background-color: #e9b806;
+  width: 150px;
+  padding: 15px;
+  border-radius: 50px;
+  border: 1px solid black;
+}
+
+.profile-loggedIn .logout {
+  transform: scale(2);
+  position: absolute;
+  top: 50px;
+  right: 50px;
+  cursor: pointer;
+  transition: color, transform 500ms ease;
+}
+
+.profile-loggedIn .logout:hover {
+  color: #dc3d3d;
+  transform: scale(3);
+}
+
+/*------------------------------Форум------------------------------------------------------*/
+.forum {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 1280px;
+  min-height: 600px;
+}
+
+.forum .signature {
+  position: absolute;
+  top: 25px;
+  color: white;
+  font-size: 24px;
+}
+
+.forum .addPost {
+  margin:20px;
+  margin-top:50px;
+}
+
+.forum .posts {
+  
+  width: 1240px;
+  border: 2px solid black;
+  border-radius: 30px;
+  background-color: #ffffff90;
+}
+
+.post {
+  display:grid;
+  grid-template-areas: 'img name l btl dl btdl score'
+                       'img text text text text text text';
+  grid-template-columns: 1fr 4fr auto;
+  width: 1200px;
+  margin:10px;
+  margin-left:15px;
+  border: 2px solid black;
+  border-radius: 30px;
+  background-color: #e9b806c8;
+}
+
+.post>img {
+  grid-area: img;
+  width: 50px;
+  height: auto;
+  margin:30px 20px 10px 20px;
+  border-radius: 30px;
+}
+.post .postName {
+  grid-area: name;
+  align-self: center;
+  justify-self: start;
+  margin-left: -70px;
+  font-size:30px;
+  text-decoration:underline;
+}
+.post .postText {
+  grid-area: text;
+  align-self: center;
+  margin: 20px 20px 20px -70px;
+  font-size:30px;
+  border:1px solid black;
+  border-radius: 20px;
+  width: 100%;
+  text-align: start;
+  padding: 5px 10px;
+
+}
+.btLikes, .btDislikes {
+  width: 100px;
+  height: 40px;
+  margin-right:20px;
+  margin-top:10px;
+}
+.btLikes {
+  grid-area: btl;
+}
+.btDislikes {
+  grid-area: btdl;
+}
+.postLikes, .postDislikes, .postScore {
+  margin-right: 10px;
+  margin-top:15px;
+  font-size: 30px;
+}
+.postLikes {
+  grid-area:l;
+}
+.postDislikes {
+  grid-area:dl;
+}
+.postScore {
+  grid-area:score;
+  margin-right:15px;
+}
+/*----------------------------------------История заказов----------------------*/
+.orderHistory {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 1280px;
+  min-height: 500px;
+  flex-wrap: wrap;
+}
+.orderHistory-logo {
+  position: absolute;
+  top: 50px;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-size: 40px;
+  backdrop-filter: blur(10px); /* Применение размытого фильтра */
+  display: flex;
+  align-items: center; /* Выравнивание по вертикали */
+  justify-content: center; /* Выравнивание по горизонтали */
+  padding: 5px 30px;
+  border-radius: 50px;
+}
+.emptyHistory {
+  font-size:50px;
+  color: white;
+  backdrop-filter: blur(20px);
+  padding: 5px 30px;
+  border-radius: 50px;
+}
+
+/*-----------------------------------------------Контакты---------------------------------*/
+.contacts {
+  width: 1280px;
+  height: 600px;
+}
+
+.contacts .information {
+  display: grid;
+  width: 1200px;
+  grid-template-areas: "map location location"
+    "map workdays number";
+  grid-template-columns: 4fr 1.5fr 1.5fr;
+  grid-template-rows: 2fr 2fr;
+}
+
+.contacts>iframe {
+  grid-area: map;
+  position: absolute;
+  left: 50px;
+  top: 50px;
+  width: 600px;
+  /* Задайте желаемую ширину карты */
+  height: 500px;
+  /* Задайте желаемую высоту карты */
+  border-radius: 50px 50% 20px 40px;
+}
+
+.contacts .location {
+  grid-area: location;
+  display: block;
+  margin: 10px;
+  margin-top: 100px;
+  font-size: 36px;
+  background-image: linear-gradient(to right, #cfdc1ce3, #e9b806);
+  border-radius: 30px;
+  border: 1px solid black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100px;
+}
+
+.contacts .number {
+  grid-area: number;
+  margin: 10px;
+  margin-top: 50px;
+  margin-left: 20px;
+  font-size: 26px;
+  background-image: radial-gradient(ellipse farthest-corner at center, #e17d0be3, #e4e41d);
+  border: 1px solid black;
+  border-radius: 30px;
+  width: 250px;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.contacts .workdays {
+  grid-area: workdays;
+  margin-top: -10px;
+  margin-right: 20px;
+  font-size: 26px;
+  background-image: linear-gradient(to top, #cfdc1ce3, #e9b806);
+  border: 1px solid black;
+  border-radius: 30px;
+}

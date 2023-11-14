@@ -1,0 +1,668 @@
+C:\Users\lbori\source\repos\shop25\shop25\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\lbori\source\repos\shop25\shop25\bin\Debug\net7.0\appsettings.json
+C:\Users\lbori\source\repos\shop25\shop25\bin\Debug\net7.0\shop25.exe
+C:\Users\lbori\source\repos\shop25\shop25\bin\Debug\net7.0\shop25.deps.json
+C:\Users\lbori\source\repos\shop25\shop25\bin\Debug\net7.0\shop25.runtimeconfig.json
+C:\Users\lbori\source\repos\shop25\shop25\bin\Debug\net7.0\shop25.dll
+C:\Users\lbori\source\repos\shop25\shop25\bin\Debug\net7.0\shop25.pdb
+C:\Users\lbori\source\repos\shop25\shop25\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\lbori\source\repos\shop25\shop25\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lbori\source\repos\shop25\shop25\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lbori\source\repos\shop25\shop25\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lbori\source\repos\shop25\shop25\obj\Debug\net7.0\shop25.csproj.AssemblyReference.cache
+C:\Users\lbori\source\repos\shop25\shop25\obj\Debug\net7.0\shop25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lbori\source\repos\shop25\shop25\obj\Debug\net7.0\shop25.AssemblyInfoInputs.cache
+C:\Users\lbori\source\repos\shop25\shop25\obj\Debug\net7.0\shop25.AssemblyInfo.cs
+C:\Users\lbori\source\repos\shop25\shop25\obj\Debug\net7.0\shop25.csproj.CoreCompileInputs.cache
+C:\Users\lbori\source\repos\shop25\shop25\obj\Debug\net7.0\shop25.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lbori\source\repos\shop25\shop25\obj\Debug\net7.0\shop25.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lbori\source\repos\shop25\shop25\obj\Debug\net7.0\staticwebassets\msbuild.shop25.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lbori\source\repos\shop25\shop25\obj\Debug\net7.0\staticwebassets\msbuild.build.shop25.props
+C:\Users\lbori\source\repos\shop25\shop25\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.shop25.props
+C:\Users\lbori\source\repos\shop25\shop25\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.shop25.props
+C:\Users\lbori\source\repos\shop25\shop25\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\lbori\source\repos\shop25\shop25\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\lbori\source\repos\shop25\shop25\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\lbori\source\repos\shop25\shop25\obj\Debug\net7.0\scopedcss\bundle\shop25.styles.css
+C:\Users\lbori\source\repos\shop25\shop25\obj\Debug\net7.0\shop25.csproj.CopyComplete
+C:\Users\lbori\source\repos\shop25\shop25\obj\Debug\net7.0\shop25.dll
+C:\Users\lbori\source\repos\shop25\shop25\obj\Debug\net7.0\refint\shop25.dll
+C:\Users\lbori\source\repos\shop25\shop25\obj\Debug\net7.0\shop25.pdb
+C:\Users\lbori\source\repos\shop25\shop25\obj\Debug\net7.0\shop25.genruntimeconfig.cache
+C:\Users\lbori\source\repos\shop25\shop25\obj\Debug\net7.0\ref\shop25.dll
+C:\Users\lbori\source\repos\shop25\shop25\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\lbori\source\repos\shop25\shop25\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\lbori\source\repos\shop25\shop25\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lbori\source\repos\shop25\shop25\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\lbori\source\repos\shop25\shop25\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\lbori\source\repos\shop25\shop25\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lbori\source\repos\shop25\shop25\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\lbori\source\repos\shop25\shop25\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lbori\source\repos\shop25\shop25\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\lbori\source\repos\shop25\shop25\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\lbori\source\repos\shop25\shop25\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\lbori\source\repos\shop25\shop25\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\lbori\source\repos\shop25\shop25\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lbori\source\repos\shop25\shop25\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\lbori\source\repos\shop25\shop25\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lbori\source\repos\shop25\shop25\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lbori\source\repos\shop25\shop25\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lbori\source\repos\shop25\shop25\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\lbori\source\repos\shop25\shop25\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\lbori\source\repos\shop25\shop25\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\lbori\source\repos\shop25\shop25\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\lbori\source\repos\shop25\shop25\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lbori\source\repos\shop25\shop25\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\lbori\source\repos\shop25\shop25\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\lbori\source\repos\shop25\shop25\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lbori\source\repos\shop25\shop25\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\lbori\source\repos\shop25\shop25\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\lbori\source\repos\shop25\shop25\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lbori\source\repos\shop25\shop25\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lbori\source\repos\shop25\shop25\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lbori\source\repos\shop25\shop25\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lbori\source\repos\shop25\shop25\bin\Debug\net7.0\EntityFramework.SqlServer.dll
+C:\Users\lbori\source\repos\shop25\shop25\bin\Debug\net7.0\EntityFramework.dll
+C:\Users\lbori\source\repos\shop25\shop25\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\lbori\source\repos\shop25\shop25\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\lbori\source\repos\shop25\shop25\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\lbori\source\repos\shop25\shop25\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\lbori\source\repos\shop25\shop25\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\lbori\source\repos\shop25\shop25\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\lbori\source\repos\shop25\shop25\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\lbori\source\repos\shop25\shop25\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\lbori\source\repos\shop25\shop25\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lbori\source\repos\shop25\shop25\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lbori\source\repos\shop25\shop25\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\lbori\source\repos\shop25\shop25\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\lbori\source\repos\shop25\shop25\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\lbori\source\repos\shop25\shop25\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lbori\source\repos\shop25\shop25\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\lbori\source\repos\shop25\shop25\bin\Debug\net7.0\Humanizer.dll
+C:\Users\lbori\source\repos\shop25\shop25\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lbori\source\repos\shop25\shop25\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Desktop\shop25\shop25\bin\Debug\net7.0\appsettings.Development.json
+D:\Desktop\shop25\shop25\bin\Debug\net7.0\appsettings.json
+D:\Desktop\shop25\shop25\bin\Debug\net7.0\shop25.exe
+D:\Desktop\shop25\shop25\bin\Debug\net7.0\shop25.deps.json
+D:\Desktop\shop25\shop25\bin\Debug\net7.0\shop25.runtimeconfig.json
+D:\Desktop\shop25\shop25\bin\Debug\net7.0\shop25.dll
+D:\Desktop\shop25\shop25\bin\Debug\net7.0\shop25.pdb
+D:\Desktop\shop25\shop25\bin\Debug\net7.0\Azure.Core.dll
+D:\Desktop\shop25\shop25\bin\Debug\net7.0\Azure.Identity.dll
+D:\Desktop\shop25\shop25\bin\Debug\net7.0\EntityFramework.SqlServer.dll
+D:\Desktop\shop25\shop25\bin\Debug\net7.0\EntityFramework.dll
+D:\Desktop\shop25\shop25\bin\Debug\net7.0\Humanizer.dll
+D:\Desktop\shop25\shop25\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Desktop\shop25\shop25\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Desktop\shop25\shop25\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Desktop\shop25\shop25\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Desktop\shop25\shop25\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Desktop\shop25\shop25\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Desktop\shop25\shop25\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Desktop\shop25\shop25\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Desktop\shop25\shop25\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Desktop\shop25\shop25\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Desktop\shop25\shop25\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Desktop\shop25\shop25\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Desktop\shop25\shop25\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Desktop\shop25\shop25\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Desktop\shop25\shop25\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Desktop\shop25\shop25\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Desktop\shop25\shop25\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Desktop\shop25\shop25\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Desktop\shop25\shop25\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Desktop\shop25\shop25\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Desktop\shop25\shop25\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Desktop\shop25\shop25\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Desktop\shop25\shop25\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Desktop\shop25\shop25\bin\Debug\net7.0\System.CodeDom.dll
+D:\Desktop\shop25\shop25\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Desktop\shop25\shop25\bin\Debug\net7.0\System.Data.SqlClient.dll
+D:\Desktop\shop25\shop25\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Desktop\shop25\shop25\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Desktop\shop25\shop25\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Desktop\shop25\shop25\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Desktop\shop25\shop25\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Desktop\shop25\shop25\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Desktop\shop25\shop25\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Desktop\shop25\shop25\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Desktop\shop25\shop25\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Desktop\shop25\shop25\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\shop25\shop25\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\shop25\shop25\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\shop25\shop25\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\shop25\shop25\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Desktop\shop25\shop25\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+D:\Desktop\shop25\shop25\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+D:\Desktop\shop25\shop25\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+D:\Desktop\shop25\shop25\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Desktop\shop25\shop25\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Desktop\shop25\shop25\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Desktop\shop25\shop25\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Desktop\shop25\shop25\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Desktop\shop25\shop25\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Desktop\shop25\shop25\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Desktop\shop25\shop25\obj\Debug\net7.0\shop25.csproj.AssemblyReference.cache
+D:\Desktop\shop25\shop25\obj\Debug\net7.0\shop25.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\shop25\shop25\obj\Debug\net7.0\shop25.AssemblyInfoInputs.cache
+D:\Desktop\shop25\shop25\obj\Debug\net7.0\shop25.AssemblyInfo.cs
+D:\Desktop\shop25\shop25\obj\Debug\net7.0\shop25.csproj.CoreCompileInputs.cache
+D:\Desktop\shop25\shop25\obj\Debug\net7.0\shop25.MvcApplicationPartsAssemblyInfo.cs
+D:\Desktop\shop25\shop25\obj\Debug\net7.0\shop25.MvcApplicationPartsAssemblyInfo.cache
+D:\Desktop\shop25\shop25\obj\Debug\net7.0\staticwebassets\msbuild.shop25.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Desktop\shop25\shop25\obj\Debug\net7.0\staticwebassets\msbuild.build.shop25.props
+D:\Desktop\shop25\shop25\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.shop25.props
+D:\Desktop\shop25\shop25\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.shop25.props
+D:\Desktop\shop25\shop25\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Desktop\shop25\shop25\obj\Debug\net7.0\staticwebassets.build.json
+D:\Desktop\shop25\shop25\obj\Debug\net7.0\staticwebassets.development.json
+D:\Desktop\shop25\shop25\obj\Debug\net7.0\scopedcss\bundle\shop25.styles.css
+D:\Desktop\shop25\shop25\obj\Debug\net7.0\shop25.csproj.CopyComplete
+D:\Desktop\shop25\shop25\obj\Debug\net7.0\shop25.dll
+D:\Desktop\shop25\shop25\obj\Debug\net7.0\refint\shop25.dll
+D:\Desktop\shop25\shop25\obj\Debug\net7.0\shop25.pdb
+D:\Desktop\shop25\shop25\obj\Debug\net7.0\shop25.genruntimeconfig.cache
+D:\Desktop\shop25\shop25\obj\Debug\net7.0\ref\shop25.dll
+C:\Users\lbori\Desktop\shop25\shop25\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\lbori\Desktop\shop25\shop25\bin\Debug\net7.0\appsettings.json
+C:\Users\lbori\Desktop\shop25\shop25\bin\Debug\net7.0\shop25.exe
+C:\Users\lbori\Desktop\shop25\shop25\bin\Debug\net7.0\shop25.deps.json
+C:\Users\lbori\Desktop\shop25\shop25\bin\Debug\net7.0\shop25.runtimeconfig.json
+C:\Users\lbori\Desktop\shop25\shop25\bin\Debug\net7.0\shop25.dll
+C:\Users\lbori\Desktop\shop25\shop25\bin\Debug\net7.0\shop25.pdb
+C:\Users\lbori\Desktop\shop25\shop25\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\lbori\Desktop\shop25\shop25\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\lbori\Desktop\shop25\shop25\bin\Debug\net7.0\EntityFramework.SqlServer.dll
+C:\Users\lbori\Desktop\shop25\shop25\bin\Debug\net7.0\EntityFramework.dll
+C:\Users\lbori\Desktop\shop25\shop25\bin\Debug\net7.0\Humanizer.dll
+C:\Users\lbori\Desktop\shop25\shop25\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lbori\Desktop\shop25\shop25\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\lbori\Desktop\shop25\shop25\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\lbori\Desktop\shop25\shop25\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lbori\Desktop\shop25\shop25\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lbori\Desktop\shop25\shop25\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lbori\Desktop\shop25\shop25\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\lbori\Desktop\shop25\shop25\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\lbori\Desktop\shop25\shop25\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\lbori\Desktop\shop25\shop25\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\lbori\Desktop\shop25\shop25\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\lbori\Desktop\shop25\shop25\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lbori\Desktop\shop25\shop25\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\lbori\Desktop\shop25\shop25\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lbori\Desktop\shop25\shop25\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lbori\Desktop\shop25\shop25\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lbori\Desktop\shop25\shop25\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\lbori\Desktop\shop25\shop25\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\lbori\Desktop\shop25\shop25\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\lbori\Desktop\shop25\shop25\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\lbori\Desktop\shop25\shop25\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lbori\Desktop\shop25\shop25\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lbori\Desktop\shop25\shop25\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lbori\Desktop\shop25\shop25\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\lbori\Desktop\shop25\shop25\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\lbori\Desktop\shop25\shop25\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\lbori\Desktop\shop25\shop25\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\lbori\Desktop\shop25\shop25\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lbori\Desktop\shop25\shop25\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\lbori\Desktop\shop25\shop25\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\lbori\Desktop\shop25\shop25\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lbori\Desktop\shop25\shop25\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\lbori\Desktop\shop25\shop25\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\lbori\Desktop\shop25\shop25\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\lbori\Desktop\shop25\shop25\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\lbori\Desktop\shop25\shop25\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lbori\Desktop\shop25\shop25\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lbori\Desktop\shop25\shop25\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lbori\Desktop\shop25\shop25\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lbori\Desktop\shop25\shop25\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\lbori\Desktop\shop25\shop25\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\lbori\Desktop\shop25\shop25\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\lbori\Desktop\shop25\shop25\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\lbori\Desktop\shop25\shop25\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lbori\Desktop\shop25\shop25\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lbori\Desktop\shop25\shop25\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\lbori\Desktop\shop25\shop25\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\lbori\Desktop\shop25\shop25\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\lbori\Desktop\shop25\shop25\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lbori\Desktop\shop25\shop25\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\lbori\Desktop\shop25\shop25\obj\Debug\net7.0\shop25.csproj.AssemblyReference.cache
+C:\Users\lbori\Desktop\shop25\shop25\obj\Debug\net7.0\shop25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lbori\Desktop\shop25\shop25\obj\Debug\net7.0\shop25.AssemblyInfoInputs.cache
+C:\Users\lbori\Desktop\shop25\shop25\obj\Debug\net7.0\shop25.AssemblyInfo.cs
+C:\Users\lbori\Desktop\shop25\shop25\obj\Debug\net7.0\shop25.csproj.CoreCompileInputs.cache
+C:\Users\lbori\Desktop\shop25\shop25\obj\Debug\net7.0\shop25.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lbori\Desktop\shop25\shop25\obj\Debug\net7.0\shop25.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lbori\Desktop\shop25\shop25\obj\Debug\net7.0\staticwebassets\msbuild.shop25.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lbori\Desktop\shop25\shop25\obj\Debug\net7.0\staticwebassets\msbuild.build.shop25.props
+C:\Users\lbori\Desktop\shop25\shop25\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.shop25.props
+C:\Users\lbori\Desktop\shop25\shop25\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.shop25.props
+C:\Users\lbori\Desktop\shop25\shop25\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\lbori\Desktop\shop25\shop25\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\lbori\Desktop\shop25\shop25\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\lbori\Desktop\shop25\shop25\obj\Debug\net7.0\scopedcss\bundle\shop25.styles.css
+C:\Users\lbori\Desktop\shop25\shop25\obj\Debug\net7.0\shop25.csproj.CopyComplete
+C:\Users\lbori\Desktop\shop25\shop25\obj\Debug\net7.0\shop25.dll
+C:\Users\lbori\Desktop\shop25\shop25\obj\Debug\net7.0\refint\shop25.dll
+C:\Users\lbori\Desktop\shop25\shop25\obj\Debug\net7.0\shop25.pdb
+C:\Users\lbori\Desktop\shop25\shop25\obj\Debug\net7.0\shop25.genruntimeconfig.cache
+C:\Users\lbori\Desktop\shop25\shop25\obj\Debug\net7.0\ref\shop25.dll
+D:\Downloads\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\appsettings.Development.json
+D:\Downloads\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\appsettings.json
+D:\Downloads\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\shop25.exe
+D:\Downloads\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\shop25.deps.json
+D:\Downloads\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\shop25.runtimeconfig.json
+D:\Downloads\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\shop25.dll
+D:\Downloads\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\shop25.pdb
+D:\Downloads\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\Azure.Core.dll
+D:\Downloads\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\Azure.Identity.dll
+D:\Downloads\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\EntityFramework.SqlServer.dll
+D:\Downloads\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\EntityFramework.dll
+D:\Downloads\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\Humanizer.dll
+D:\Downloads\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Downloads\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Downloads\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Downloads\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Downloads\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Downloads\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Downloads\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Downloads\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Downloads\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Downloads\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Downloads\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Downloads\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Downloads\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Downloads\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Downloads\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Downloads\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Downloads\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Downloads\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Downloads\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Downloads\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Downloads\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Downloads\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Downloads\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Downloads\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\System.CodeDom.dll
+D:\Downloads\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Downloads\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\System.Data.SqlClient.dll
+D:\Downloads\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Downloads\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Downloads\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Downloads\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Downloads\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Downloads\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Downloads\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Downloads\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Downloads\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Downloads\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Downloads\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Downloads\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Downloads\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Downloads\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Downloads\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+D:\Downloads\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+D:\Downloads\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+D:\Downloads\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Downloads\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Downloads\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Downloads\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Downloads\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Downloads\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Downloads\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Downloads\oop_proj\oop_project-Alexey\shop25\shop25\obj\Debug\net7.0\shop25.csproj.AssemblyReference.cache
+D:\Downloads\oop_proj\oop_project-Alexey\shop25\shop25\obj\Debug\net7.0\shop25.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\oop_proj\oop_project-Alexey\shop25\shop25\obj\Debug\net7.0\shop25.AssemblyInfoInputs.cache
+D:\Downloads\oop_proj\oop_project-Alexey\shop25\shop25\obj\Debug\net7.0\shop25.AssemblyInfo.cs
+D:\Downloads\oop_proj\oop_project-Alexey\shop25\shop25\obj\Debug\net7.0\shop25.csproj.CoreCompileInputs.cache
+D:\Downloads\oop_proj\oop_project-Alexey\shop25\shop25\obj\Debug\net7.0\shop25.MvcApplicationPartsAssemblyInfo.cs
+D:\Downloads\oop_proj\oop_project-Alexey\shop25\shop25\obj\Debug\net7.0\shop25.MvcApplicationPartsAssemblyInfo.cache
+D:\Downloads\oop_proj\oop_project-Alexey\shop25\shop25\obj\Debug\net7.0\staticwebassets\msbuild.shop25.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Downloads\oop_proj\oop_project-Alexey\shop25\shop25\obj\Debug\net7.0\staticwebassets\msbuild.build.shop25.props
+D:\Downloads\oop_proj\oop_project-Alexey\shop25\shop25\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.shop25.props
+D:\Downloads\oop_proj\oop_project-Alexey\shop25\shop25\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.shop25.props
+D:\Downloads\oop_proj\oop_project-Alexey\shop25\shop25\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Downloads\oop_proj\oop_project-Alexey\shop25\shop25\obj\Debug\net7.0\staticwebassets.build.json
+D:\Downloads\oop_proj\oop_project-Alexey\shop25\shop25\obj\Debug\net7.0\staticwebassets.development.json
+D:\Downloads\oop_proj\oop_project-Alexey\shop25\shop25\obj\Debug\net7.0\scopedcss\bundle\shop25.styles.css
+D:\Downloads\oop_proj\oop_project-Alexey\shop25\shop25\obj\Debug\net7.0\shop25.csproj.CopyComplete
+D:\Downloads\oop_proj\oop_project-Alexey\shop25\shop25\obj\Debug\net7.0\shop25.dll
+D:\Downloads\oop_proj\oop_project-Alexey\shop25\shop25\obj\Debug\net7.0\refint\shop25.dll
+D:\Downloads\oop_proj\oop_project-Alexey\shop25\shop25\obj\Debug\net7.0\shop25.pdb
+D:\Downloads\oop_proj\oop_project-Alexey\shop25\shop25\obj\Debug\net7.0\shop25.genruntimeconfig.cache
+D:\Downloads\oop_proj\oop_project-Alexey\shop25\shop25\obj\Debug\net7.0\ref\shop25.dll
+C:\Users\lbori\Desktop\oop_proj\oop_project-Alexey\shop25\shop25\obj\Debug\net7.0\shop25.csproj.AssemblyReference.cache
+C:\Users\lbori\Desktop\oop_proj\oop_project-Alexey\shop25\shop25\obj\Debug\net7.0\shop25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lbori\Desktop\oop_proj\oop_project-Alexey\shop25\shop25\obj\Debug\net7.0\shop25.AssemblyInfoInputs.cache
+C:\Users\lbori\Desktop\oop_proj\oop_project-Alexey\shop25\shop25\obj\Debug\net7.0\shop25.AssemblyInfo.cs
+C:\Users\lbori\Desktop\oop_proj\oop_project-Alexey\shop25\shop25\obj\Debug\net7.0\shop25.csproj.CoreCompileInputs.cache
+C:\Users\lbori\Desktop\oop_proj\oop_project-Alexey\shop25\shop25\obj\Debug\net7.0\shop25.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lbori\Desktop\oop_proj\oop_project-Alexey\shop25\shop25\obj\Debug\net7.0\shop25.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lbori\Desktop\oop_proj\oop_project-Alexey\shop25\shop25\obj\Debug\net7.0\shop25.dll
+C:\Users\lbori\Desktop\oop_proj\oop_project-Alexey\shop25\shop25\obj\Debug\net7.0\refint\shop25.dll
+C:\Users\lbori\Desktop\oop_proj\oop_project-Alexey\shop25\shop25\obj\Debug\net7.0\shop25.pdb
+C:\Users\lbori\Desktop\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\lbori\Desktop\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\appsettings.json
+C:\Users\lbori\Desktop\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\shop25.exe
+C:\Users\lbori\Desktop\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\shop25.deps.json
+C:\Users\lbori\Desktop\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\shop25.runtimeconfig.json
+C:\Users\lbori\Desktop\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\shop25.dll
+C:\Users\lbori\Desktop\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\shop25.pdb
+C:\Users\lbori\Desktop\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\lbori\Desktop\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\lbori\Desktop\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\EntityFramework.SqlServer.dll
+C:\Users\lbori\Desktop\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\EntityFramework.dll
+C:\Users\lbori\Desktop\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\Humanizer.dll
+C:\Users\lbori\Desktop\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lbori\Desktop\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\lbori\Desktop\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\lbori\Desktop\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lbori\Desktop\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lbori\Desktop\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lbori\Desktop\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\lbori\Desktop\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\lbori\Desktop\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\lbori\Desktop\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\lbori\Desktop\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\lbori\Desktop\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lbori\Desktop\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\lbori\Desktop\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lbori\Desktop\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lbori\Desktop\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lbori\Desktop\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\lbori\Desktop\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\lbori\Desktop\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\lbori\Desktop\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\lbori\Desktop\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lbori\Desktop\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lbori\Desktop\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lbori\Desktop\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\lbori\Desktop\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\lbori\Desktop\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\lbori\Desktop\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\lbori\Desktop\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lbori\Desktop\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\lbori\Desktop\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\lbori\Desktop\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lbori\Desktop\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\lbori\Desktop\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\lbori\Desktop\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\lbori\Desktop\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\lbori\Desktop\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lbori\Desktop\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lbori\Desktop\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lbori\Desktop\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lbori\Desktop\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\lbori\Desktop\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\lbori\Desktop\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\lbori\Desktop\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\lbori\Desktop\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lbori\Desktop\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lbori\Desktop\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\lbori\Desktop\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\lbori\Desktop\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\lbori\Desktop\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lbori\Desktop\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\lbori\Desktop\oop_proj\oop_project-Alexey\shop25\shop25\obj\Debug\net7.0\staticwebassets\msbuild.shop25.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lbori\Desktop\oop_proj\oop_project-Alexey\shop25\shop25\obj\Debug\net7.0\staticwebassets\msbuild.build.shop25.props
+C:\Users\lbori\Desktop\oop_proj\oop_project-Alexey\shop25\shop25\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.shop25.props
+C:\Users\lbori\Desktop\oop_proj\oop_project-Alexey\shop25\shop25\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.shop25.props
+C:\Users\lbori\Desktop\oop_proj\oop_project-Alexey\shop25\shop25\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\lbori\Desktop\oop_proj\oop_project-Alexey\shop25\shop25\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\lbori\Desktop\oop_proj\oop_project-Alexey\shop25\shop25\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\lbori\Desktop\oop_proj\oop_project-Alexey\shop25\shop25\obj\Debug\net7.0\scopedcss\bundle\shop25.styles.css
+C:\Users\lbori\Desktop\oop_proj\oop_project-Alexey\shop25\shop25\obj\Debug\net7.0\shop25.csproj.CopyComplete
+C:\Users\lbori\Desktop\oop_proj\oop_project-Alexey\shop25\shop25\obj\Debug\net7.0\shop25.genruntimeconfig.cache
+C:\Users\lbori\Desktop\oop_proj\oop_project-Alexey\shop25\shop25\obj\Debug\net7.0\ref\shop25.dll
+C:\Users\lbori\Desktop\oop_proj\oop_project-Alexey\shop25\shop25\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Desktop\proj(13.06)\2\shop25\bin\Debug\net7.0\appsettings.Development.json
+D:\Desktop\proj(13.06)\2\shop25\bin\Debug\net7.0\appsettings.json
+D:\Desktop\proj(13.06)\2\shop25\bin\Debug\net7.0\shop25.exe
+D:\Desktop\proj(13.06)\2\shop25\bin\Debug\net7.0\shop25.deps.json
+D:\Desktop\proj(13.06)\2\shop25\bin\Debug\net7.0\shop25.runtimeconfig.json
+D:\Desktop\proj(13.06)\2\shop25\bin\Debug\net7.0\shop25.dll
+D:\Desktop\proj(13.06)\2\shop25\bin\Debug\net7.0\shop25.pdb
+D:\Desktop\proj(13.06)\2\shop25\bin\Debug\net7.0\Azure.Core.dll
+D:\Desktop\proj(13.06)\2\shop25\bin\Debug\net7.0\Azure.Identity.dll
+D:\Desktop\proj(13.06)\2\shop25\bin\Debug\net7.0\EntityFramework.SqlServer.dll
+D:\Desktop\proj(13.06)\2\shop25\bin\Debug\net7.0\EntityFramework.dll
+D:\Desktop\proj(13.06)\2\shop25\bin\Debug\net7.0\Humanizer.dll
+D:\Desktop\proj(13.06)\2\shop25\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Desktop\proj(13.06)\2\shop25\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Desktop\proj(13.06)\2\shop25\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Desktop\proj(13.06)\2\shop25\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Desktop\proj(13.06)\2\shop25\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Desktop\proj(13.06)\2\shop25\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Desktop\proj(13.06)\2\shop25\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Desktop\proj(13.06)\2\shop25\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Desktop\proj(13.06)\2\shop25\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Desktop\proj(13.06)\2\shop25\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Desktop\proj(13.06)\2\shop25\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Desktop\proj(13.06)\2\shop25\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Desktop\proj(13.06)\2\shop25\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Desktop\proj(13.06)\2\shop25\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Desktop\proj(13.06)\2\shop25\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Desktop\proj(13.06)\2\shop25\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Desktop\proj(13.06)\2\shop25\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Desktop\proj(13.06)\2\shop25\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Desktop\proj(13.06)\2\shop25\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Desktop\proj(13.06)\2\shop25\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Desktop\proj(13.06)\2\shop25\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Desktop\proj(13.06)\2\shop25\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Desktop\proj(13.06)\2\shop25\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Desktop\proj(13.06)\2\shop25\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Desktop\proj(13.06)\2\shop25\bin\Debug\net7.0\System.CodeDom.dll
+D:\Desktop\proj(13.06)\2\shop25\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Desktop\proj(13.06)\2\shop25\bin\Debug\net7.0\System.Data.SqlClient.dll
+D:\Desktop\proj(13.06)\2\shop25\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Desktop\proj(13.06)\2\shop25\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Desktop\proj(13.06)\2\shop25\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Desktop\proj(13.06)\2\shop25\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Desktop\proj(13.06)\2\shop25\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Desktop\proj(13.06)\2\shop25\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Desktop\proj(13.06)\2\shop25\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Desktop\proj(13.06)\2\shop25\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Desktop\proj(13.06)\2\shop25\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Desktop\proj(13.06)\2\shop25\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\proj(13.06)\2\shop25\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\proj(13.06)\2\shop25\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\proj(13.06)\2\shop25\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\proj(13.06)\2\shop25\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Desktop\proj(13.06)\2\shop25\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+D:\Desktop\proj(13.06)\2\shop25\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+D:\Desktop\proj(13.06)\2\shop25\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+D:\Desktop\proj(13.06)\2\shop25\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Desktop\proj(13.06)\2\shop25\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Desktop\proj(13.06)\2\shop25\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Desktop\proj(13.06)\2\shop25\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Desktop\proj(13.06)\2\shop25\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Desktop\proj(13.06)\2\shop25\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Desktop\proj(13.06)\2\shop25\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Desktop\proj(13.06)\2\shop25\obj\Debug\net7.0\shop25.csproj.AssemblyReference.cache
+D:\Desktop\proj(13.06)\2\shop25\obj\Debug\net7.0\shop25.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\proj(13.06)\2\shop25\obj\Debug\net7.0\shop25.AssemblyInfoInputs.cache
+D:\Desktop\proj(13.06)\2\shop25\obj\Debug\net7.0\shop25.AssemblyInfo.cs
+D:\Desktop\proj(13.06)\2\shop25\obj\Debug\net7.0\shop25.csproj.CoreCompileInputs.cache
+D:\Desktop\proj(13.06)\2\shop25\obj\Debug\net7.0\shop25.MvcApplicationPartsAssemblyInfo.cs
+D:\Desktop\proj(13.06)\2\shop25\obj\Debug\net7.0\shop25.MvcApplicationPartsAssemblyInfo.cache
+D:\Desktop\proj(13.06)\2\shop25\obj\Debug\net7.0\staticwebassets\msbuild.shop25.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Desktop\proj(13.06)\2\shop25\obj\Debug\net7.0\staticwebassets\msbuild.build.shop25.props
+D:\Desktop\proj(13.06)\2\shop25\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.shop25.props
+D:\Desktop\proj(13.06)\2\shop25\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.shop25.props
+D:\Desktop\proj(13.06)\2\shop25\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Desktop\proj(13.06)\2\shop25\obj\Debug\net7.0\staticwebassets.build.json
+D:\Desktop\proj(13.06)\2\shop25\obj\Debug\net7.0\staticwebassets.development.json
+D:\Desktop\proj(13.06)\2\shop25\obj\Debug\net7.0\scopedcss\bundle\shop25.styles.css
+D:\Desktop\proj(13.06)\2\shop25\obj\Debug\net7.0\shop25.csproj.CopyComplete
+D:\Desktop\proj(13.06)\2\shop25\obj\Debug\net7.0\shop25.dll
+D:\Desktop\proj(13.06)\2\shop25\obj\Debug\net7.0\refint\shop25.dll
+D:\Desktop\proj(13.06)\2\shop25\obj\Debug\net7.0\shop25.pdb
+D:\Desktop\proj(13.06)\2\shop25\obj\Debug\net7.0\shop25.genruntimeconfig.cache
+D:\Desktop\proj(13.06)\2\shop25\obj\Debug\net7.0\ref\shop25.dll
+D:\Desktop\учеба\2 курс\proj(13.06)\2\shop25\bin\Debug\net7.0\appsettings.Development.json
+D:\Desktop\учеба\2 курс\proj(13.06)\2\shop25\bin\Debug\net7.0\appsettings.json
+D:\Desktop\учеба\2 курс\proj(13.06)\2\shop25\bin\Debug\net7.0\shop25.exe
+D:\Desktop\учеба\2 курс\proj(13.06)\2\shop25\bin\Debug\net7.0\shop25.deps.json
+D:\Desktop\учеба\2 курс\proj(13.06)\2\shop25\bin\Debug\net7.0\shop25.runtimeconfig.json
+D:\Desktop\учеба\2 курс\proj(13.06)\2\shop25\bin\Debug\net7.0\shop25.dll
+D:\Desktop\учеба\2 курс\proj(13.06)\2\shop25\bin\Debug\net7.0\shop25.pdb
+D:\Desktop\учеба\2 курс\proj(13.06)\2\shop25\bin\Debug\net7.0\Azure.Core.dll
+D:\Desktop\учеба\2 курс\proj(13.06)\2\shop25\bin\Debug\net7.0\Azure.Identity.dll
+D:\Desktop\учеба\2 курс\proj(13.06)\2\shop25\bin\Debug\net7.0\EntityFramework.SqlServer.dll
+D:\Desktop\учеба\2 курс\proj(13.06)\2\shop25\bin\Debug\net7.0\EntityFramework.dll
+D:\Desktop\учеба\2 курс\proj(13.06)\2\shop25\bin\Debug\net7.0\Humanizer.dll
+D:\Desktop\учеба\2 курс\proj(13.06)\2\shop25\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Desktop\учеба\2 курс\proj(13.06)\2\shop25\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Desktop\учеба\2 курс\proj(13.06)\2\shop25\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Desktop\учеба\2 курс\proj(13.06)\2\shop25\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Desktop\учеба\2 курс\proj(13.06)\2\shop25\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Desktop\учеба\2 курс\proj(13.06)\2\shop25\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Desktop\учеба\2 курс\proj(13.06)\2\shop25\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Desktop\учеба\2 курс\proj(13.06)\2\shop25\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Desktop\учеба\2 курс\proj(13.06)\2\shop25\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Desktop\учеба\2 курс\proj(13.06)\2\shop25\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Desktop\учеба\2 курс\proj(13.06)\2\shop25\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Desktop\учеба\2 курс\proj(13.06)\2\shop25\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Desktop\учеба\2 курс\proj(13.06)\2\shop25\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Desktop\учеба\2 курс\proj(13.06)\2\shop25\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Desktop\учеба\2 курс\proj(13.06)\2\shop25\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Desktop\учеба\2 курс\proj(13.06)\2\shop25\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Desktop\учеба\2 курс\proj(13.06)\2\shop25\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Desktop\учеба\2 курс\proj(13.06)\2\shop25\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Desktop\учеба\2 курс\proj(13.06)\2\shop25\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Desktop\учеба\2 курс\proj(13.06)\2\shop25\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Desktop\учеба\2 курс\proj(13.06)\2\shop25\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Desktop\учеба\2 курс\proj(13.06)\2\shop25\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Desktop\учеба\2 курс\proj(13.06)\2\shop25\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Desktop\учеба\2 курс\proj(13.06)\2\shop25\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Desktop\учеба\2 курс\proj(13.06)\2\shop25\bin\Debug\net7.0\System.CodeDom.dll
+D:\Desktop\учеба\2 курс\proj(13.06)\2\shop25\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Desktop\учеба\2 курс\proj(13.06)\2\shop25\bin\Debug\net7.0\System.Data.SqlClient.dll
+D:\Desktop\учеба\2 курс\proj(13.06)\2\shop25\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Desktop\учеба\2 курс\proj(13.06)\2\shop25\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Desktop\учеба\2 курс\proj(13.06)\2\shop25\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Desktop\учеба\2 курс\proj(13.06)\2\shop25\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Desktop\учеба\2 курс\proj(13.06)\2\shop25\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Desktop\учеба\2 курс\proj(13.06)\2\shop25\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Desktop\учеба\2 курс\proj(13.06)\2\shop25\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Desktop\учеба\2 курс\proj(13.06)\2\shop25\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Desktop\учеба\2 курс\proj(13.06)\2\shop25\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Desktop\учеба\2 курс\proj(13.06)\2\shop25\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\учеба\2 курс\proj(13.06)\2\shop25\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\учеба\2 курс\proj(13.06)\2\shop25\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\учеба\2 курс\proj(13.06)\2\shop25\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\учеба\2 курс\proj(13.06)\2\shop25\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Desktop\учеба\2 курс\proj(13.06)\2\shop25\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+D:\Desktop\учеба\2 курс\proj(13.06)\2\shop25\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+D:\Desktop\учеба\2 курс\proj(13.06)\2\shop25\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+D:\Desktop\учеба\2 курс\proj(13.06)\2\shop25\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Desktop\учеба\2 курс\proj(13.06)\2\shop25\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Desktop\учеба\2 курс\proj(13.06)\2\shop25\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Desktop\учеба\2 курс\proj(13.06)\2\shop25\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Desktop\учеба\2 курс\proj(13.06)\2\shop25\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Desktop\учеба\2 курс\proj(13.06)\2\shop25\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Desktop\учеба\2 курс\proj(13.06)\2\shop25\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Desktop\учеба\2 курс\proj(13.06)\2\shop25\obj\Debug\net7.0\shop25.csproj.AssemblyReference.cache
+D:\Desktop\учеба\2 курс\proj(13.06)\2\shop25\obj\Debug\net7.0\shop25.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\учеба\2 курс\proj(13.06)\2\shop25\obj\Debug\net7.0\shop25.AssemblyInfoInputs.cache
+D:\Desktop\учеба\2 курс\proj(13.06)\2\shop25\obj\Debug\net7.0\shop25.AssemblyInfo.cs
+D:\Desktop\учеба\2 курс\proj(13.06)\2\shop25\obj\Debug\net7.0\shop25.csproj.CoreCompileInputs.cache
+D:\Desktop\учеба\2 курс\proj(13.06)\2\shop25\obj\Debug\net7.0\shop25.MvcApplicationPartsAssemblyInfo.cs
+D:\Desktop\учеба\2 курс\proj(13.06)\2\shop25\obj\Debug\net7.0\shop25.MvcApplicationPartsAssemblyInfo.cache
+D:\Desktop\учеба\2 курс\proj(13.06)\2\shop25\obj\Debug\net7.0\staticwebassets\msbuild.shop25.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Desktop\учеба\2 курс\proj(13.06)\2\shop25\obj\Debug\net7.0\staticwebassets\msbuild.build.shop25.props
+D:\Desktop\учеба\2 курс\proj(13.06)\2\shop25\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.shop25.props
+D:\Desktop\учеба\2 курс\proj(13.06)\2\shop25\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.shop25.props
+D:\Desktop\учеба\2 курс\proj(13.06)\2\shop25\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Desktop\учеба\2 курс\proj(13.06)\2\shop25\obj\Debug\net7.0\staticwebassets.build.json
+D:\Desktop\учеба\2 курс\proj(13.06)\2\shop25\obj\Debug\net7.0\staticwebassets.development.json
+D:\Desktop\учеба\2 курс\proj(13.06)\2\shop25\obj\Debug\net7.0\scopedcss\bundle\shop25.styles.css
+D:\Desktop\учеба\2 курс\proj(13.06)\2\shop25\obj\Debug\net7.0\shop25.csproj.CopyComplete
+D:\Desktop\учеба\2 курс\proj(13.06)\2\shop25\obj\Debug\net7.0\shop25.dll
+D:\Desktop\учеба\2 курс\proj(13.06)\2\shop25\obj\Debug\net7.0\refint\shop25.dll
+D:\Desktop\учеба\2 курс\proj(13.06)\2\shop25\obj\Debug\net7.0\shop25.pdb
+D:\Desktop\учеба\2 курс\proj(13.06)\2\shop25\obj\Debug\net7.0\shop25.genruntimeconfig.cache
+D:\Desktop\учеба\2 курс\proj(13.06)\2\shop25\obj\Debug\net7.0\ref\shop25.dll
+D:\Desktop\проект\backend\shop25\bin\Debug\net7.0\appsettings.Development.json
+D:\Desktop\проект\backend\shop25\bin\Debug\net7.0\appsettings.json
+D:\Desktop\проект\backend\shop25\bin\Debug\net7.0\shop25.exe
+D:\Desktop\проект\backend\shop25\bin\Debug\net7.0\shop25.deps.json
+D:\Desktop\проект\backend\shop25\bin\Debug\net7.0\shop25.runtimeconfig.json
+D:\Desktop\проект\backend\shop25\bin\Debug\net7.0\shop25.dll
+D:\Desktop\проект\backend\shop25\bin\Debug\net7.0\shop25.pdb
+D:\Desktop\проект\backend\shop25\bin\Debug\net7.0\Azure.Core.dll
+D:\Desktop\проект\backend\shop25\bin\Debug\net7.0\Azure.Identity.dll
+D:\Desktop\проект\backend\shop25\bin\Debug\net7.0\EntityFramework.SqlServer.dll
+D:\Desktop\проект\backend\shop25\bin\Debug\net7.0\EntityFramework.dll
+D:\Desktop\проект\backend\shop25\bin\Debug\net7.0\Humanizer.dll
+D:\Desktop\проект\backend\shop25\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Desktop\проект\backend\shop25\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Desktop\проект\backend\shop25\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Desktop\проект\backend\shop25\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Desktop\проект\backend\shop25\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Desktop\проект\backend\shop25\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Desktop\проект\backend\shop25\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Desktop\проект\backend\shop25\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Desktop\проект\backend\shop25\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Desktop\проект\backend\shop25\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Desktop\проект\backend\shop25\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Desktop\проект\backend\shop25\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Desktop\проект\backend\shop25\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Desktop\проект\backend\shop25\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Desktop\проект\backend\shop25\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Desktop\проект\backend\shop25\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Desktop\проект\backend\shop25\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Desktop\проект\backend\shop25\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Desktop\проект\backend\shop25\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Desktop\проект\backend\shop25\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Desktop\проект\backend\shop25\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Desktop\проект\backend\shop25\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Desktop\проект\backend\shop25\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Desktop\проект\backend\shop25\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Desktop\проект\backend\shop25\bin\Debug\net7.0\System.CodeDom.dll
+D:\Desktop\проект\backend\shop25\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Desktop\проект\backend\shop25\bin\Debug\net7.0\System.Data.SqlClient.dll
+D:\Desktop\проект\backend\shop25\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Desktop\проект\backend\shop25\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Desktop\проект\backend\shop25\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Desktop\проект\backend\shop25\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Desktop\проект\backend\shop25\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Desktop\проект\backend\shop25\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Desktop\проект\backend\shop25\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Desktop\проект\backend\shop25\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Desktop\проект\backend\shop25\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Desktop\проект\backend\shop25\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\проект\backend\shop25\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\проект\backend\shop25\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\проект\backend\shop25\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\проект\backend\shop25\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Desktop\проект\backend\shop25\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+D:\Desktop\проект\backend\shop25\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+D:\Desktop\проект\backend\shop25\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+D:\Desktop\проект\backend\shop25\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Desktop\проект\backend\shop25\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Desktop\проект\backend\shop25\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Desktop\проект\backend\shop25\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Desktop\проект\backend\shop25\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Desktop\проект\backend\shop25\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Desktop\проект\backend\shop25\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Desktop\проект\backend\shop25\obj\Debug\net7.0\shop25.csproj.AssemblyReference.cache
+D:\Desktop\проект\backend\shop25\obj\Debug\net7.0\shop25.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\проект\backend\shop25\obj\Debug\net7.0\shop25.AssemblyInfoInputs.cache
+D:\Desktop\проект\backend\shop25\obj\Debug\net7.0\shop25.AssemblyInfo.cs
+D:\Desktop\проект\backend\shop25\obj\Debug\net7.0\shop25.csproj.CoreCompileInputs.cache
+D:\Desktop\проект\backend\shop25\obj\Debug\net7.0\shop25.MvcApplicationPartsAssemblyInfo.cs
+D:\Desktop\проект\backend\shop25\obj\Debug\net7.0\shop25.MvcApplicationPartsAssemblyInfo.cache
+D:\Desktop\проект\backend\shop25\obj\Debug\net7.0\staticwebassets\msbuild.shop25.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Desktop\проект\backend\shop25\obj\Debug\net7.0\staticwebassets\msbuild.build.shop25.props
+D:\Desktop\проект\backend\shop25\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.shop25.props
+D:\Desktop\проект\backend\shop25\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.shop25.props
+D:\Desktop\проект\backend\shop25\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Desktop\проект\backend\shop25\obj\Debug\net7.0\staticwebassets.build.json
+D:\Desktop\проект\backend\shop25\obj\Debug\net7.0\staticwebassets.development.json
+D:\Desktop\проект\backend\shop25\obj\Debug\net7.0\scopedcss\bundle\shop25.styles.css
+D:\Desktop\проект\backend\shop25\obj\Debug\net7.0\shop25.csproj.CopyComplete
+D:\Desktop\проект\backend\shop25\obj\Debug\net7.0\shop25.dll
+D:\Desktop\проект\backend\shop25\obj\Debug\net7.0\refint\shop25.dll
+D:\Desktop\проект\backend\shop25\obj\Debug\net7.0\shop25.pdb
+D:\Desktop\проект\backend\shop25\obj\Debug\net7.0\shop25.genruntimeconfig.cache
+D:\Desktop\проект\backend\shop25\obj\Debug\net7.0\ref\shop25.dll
